@@ -2,6 +2,6 @@
 
 - Html ve SCSS kullanılarak oluşturuldu.
 
-#GIF
+# GIF
 
 ![](screen.gif)
